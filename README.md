@@ -129,9 +129,6 @@ Then browse to [http://localhost:8000](http://localhost:8000)
 ```
 opensim-rag/
 ├── app.py                        # Web application
-├── create_favicon.py             # Utility script for creating favicon
-├── create_placeholder_logo.py    # Utility script for creating placeholder logo
-├── download_logo.py              # Utility script for downloading OpenSim logo
 ├── hf_rag.py                     # Basic RAG with Hugging Face embeddings
 ├── opensim_rag_complete.py       # Complete RAG system with interactive CLI
 ├── opensim_scraper.py            # Web scraper for OpenSim documentation
