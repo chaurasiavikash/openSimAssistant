@@ -107,7 +107,7 @@ git add .
 git commit -m "Initial commit: OpenSim RAG Assistant"
 
 # Add the GitHub repository as remote
-git remote add origin https://github.com/yourusername/opensim-rag.git
+git remote add origin  https://github.com/chaurasiavikash/opensim-rag.git
 
 # Push your code to GitHub
 git push -u origin main
