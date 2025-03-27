@@ -43,7 +43,7 @@ OpenSim RAG Assistant helps biomechanics researchers, students, and practitioner
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/opensim-rag.git
+git clone https://github.com/chaurasiavikash/opensim-rag.git
 cd opensim-rag
 
 # Create and activate a conda environment
